@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "tarea3backend",
   "dependencies": {
     "mongodb": "latest"
   }
