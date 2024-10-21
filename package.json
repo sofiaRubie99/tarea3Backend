@@ -1,6 +1,6 @@
 {
   "name": "tarea3backend",
   "dependencies": {
-    "mongodb": "latest"
+    "mongodb": "4.1"
   }
 }
