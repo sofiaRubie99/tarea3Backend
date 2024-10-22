@@ -1,23 +1,18 @@
 {
-  "name": "tarea3backend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "Backend para la tarea 3",
+  "description": "",
   "main": "mongoDB.js",
   "scripts": {
-    "start": "node mongoDB.js",
-    "dev": "nodemon mongoDB.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "mongodb": "^4.1",
-    "express": "^4.17.1",
-    "cors": "^2.8.5"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.15"
-  },
-  "engines": {
-    "node": ">=14.0.0"
-  },
+  "keywords": [],
   "author": "Sofia Rubie",
-  "license": ""
+  "license": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.7.2"
+  }
 }
